@@ -1,0 +1,49 @@
+<MECServer>
+	<MEC id="0">
+		<frequency>2000.0</frequency>
+		<cw>20</cw>
+	</MEC>
+
+	<MEC id="1">
+		<frequency>2100.0</frequency>
+		<cw>20</cw>	
+	</MEC>
+	
+	<MEC id="2">
+		<frequency>2200.0</frequency>
+		<cw>20</cw>	
+	</MEC>
+	
+	<MEC id="3">
+		<frequency>2300.0</frequency>
+		<cw>20</cw>	
+	</MEC>
+	
+	<MEC id="4">
+		<frequency>2400.0</frequency>
+		<cw>20</cw>	
+	</MEC>
+	
+		<MEC id="5">
+		<frequency>2500.0</frequency>
+		<cw>20</cw>
+	</MEC>
+
+	<MEC id="6">
+		<frequency>2100.0</frequency>
+		<cw>20</cw>	
+	</MEC>
+	
+	<MEC id="7">
+		<frequency>2200.0</frequency>
+		<cw>20</cw>	
+	</MEC>
+	
+
+
+	
+
+
+
+
+</MECServer>

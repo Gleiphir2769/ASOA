@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APPPool>
+	<APP>
+		<frequency>500.0</frequency>
+		<cw>1</cw>
+		<item priority="1">300</item>
+		<item priority="3">350</item>
+		<item priority="2">400</item>
+		<item priority="5">450</item>
+		<item priority="4">400</item>
+		<item priority="3">200</item>
+		<item priority="5">250</item>
+		<item priority="2">300</item>
+		<item priority="1">100</item>
+		<item priority="3">150</item>
+	</APP>
+	<APP>
+		<frequency>500.0</frequency>
+		<cw>1</cw>
+		<item priority="1">300</item>
+		<item priority="3">350</item>
+		<item priority="2">400</item>
+		<item priority="5">450</item>
+		<item priority="4">400</item>
+		<item priority="3">200</item>
+		<item priority="5">250</item>
+		<item priority="2">300</item>
+		<item priority="1">100</item>
+		<item priority="3">150</item>
+	</APP><APP>
+	<frequency>500.0</frequency>
+	<cw>1</cw>
+	<item priority="1">300</item>
+	<item priority="3">350</item>
+	<item priority="2">400</item>
+	<item priority="5">450</item>
+	<item priority="4">400</item>
+	<item priority="3">200</item>
+	<item priority="5">250</item>
+	<item priority="2">300</item>
+	<item priority="1">100</item>
+	<item priority="3">150</item>
+</APP><APP>
+	<frequency>500.0</frequency>
+	<cw>1</cw>
+	<item priority="1">300</item>
+	<item priority="3">350</item>
+	<item priority="2">400</item>
+	<item priority="5">450</item>
+	<item priority="4">400</item>
+	<item priority="3">200</item>
+	<item priority="5">250</item>
+	<item priority="2">300</item>
+	<item priority="1">100</item>
+	<item priority="3">150</item>
+</APP><APP>
+	<frequency>500.0</frequency>
+	<cw>1</cw>
+	<item priority="1">300</item>
+	<item priority="3">350</item>
+	<item priority="2">400</item>
+	<item priority="5">450</item>
+	<item priority="4">400</item>
+	<item priority="3">200</item>
+	<item priority="5">250</item>
+	<item priority="2">300</item>
+	<item priority="1">100</item>
+	<item priority="3">150</item>
+</APP><APP>
+	<frequency>500.0</frequency>
+	<cw>1</cw>
+	<item priority="1">300</item>
+	<item priority="3">350</item>
+	<item priority="2">400</item>
+	<item priority="5">450</item>
+	<item priority="4">400</item>
+	<item priority="3">200</item>
+	<item priority="5">250</item>
+	<item priority="2">300</item>
+	<item priority="1">100</item>
+	<item priority="3">150</item>
+</APP><APP>
+	<frequency>500.0</frequency>
+	<cw>1</cw>
+	<item priority="1">300</item>
+	<item priority="3">350</item>
+	<item priority="2">400</item>
+	<item priority="5">450</item>
+	<item priority="4">400</item>
+	<item priority="3">200</item>
+	<item priority="5">250</item>
+	<item priority="2">300</item>
+	<item priority="1">100</item>
+	<item priority="3">150</item>
+</APP><APP>
+	<frequency>500.0</frequency>
+	<cw>1</cw>
+	<item priority="1">300</item>
+	<item priority="3">350</item>
+	<item priority="2">400</item>
+	<item priority="5">450</item>
+	<item priority="4">400</item>
+	<item priority="3">200</item>
+	<item priority="5">250</item>
+	<item priority="2">300</item>
+	<item priority="1">100</item>
+	<item priority="3">150</item>
+</APP><APP>
+	<frequency>500.0</frequency>
+	<cw>1</cw>
+	<item priority="1">300</item>
+	<item priority="3">350</item>
+	<item priority="2">400</item>
+	<item priority="5">450</item>
+	<item priority="4">400</item>
+	<item priority="3">200</item>
+	<item priority="5">250</item>
+	<item priority="2">300</item>
+	<item priority="1">100</item>
+	<item priority="3">150</item>
+</APP><APP>
+	<frequency>500.0</frequency>
+	<cw>1</cw>
+	<item priority="1">300</item>
+	<item priority="3">350</item>
+	<item priority="2">400</item>
+	<item priority="5">450</item>
+	<item priority="4">400</item>
+	<item priority="3">200</item>
+	<item priority="5">250</item>
+	<item priority="2">300</item>
+	<item priority="1">100</item>
+	<item priority="3">150</item>
+</APP>
+</APPPool>

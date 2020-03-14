@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-01-28T05:05:42.687238200Z</date>
+  <millis>1580187942687</millis>
+  <nanos>238200</nanos>
+  <sequence>0</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.JMetalLogger</class>
+  <method>configureLoggers</method>
+  <thread>1</thread>
+  <message>Loggers configured with null</message>
+</record>
+<record>
+  <date>2020-01-28T05:05:42.714166700Z</date>
+  <millis>1580187942714</millis>
+  <nanos>166700</nanos>
+  <sequence>1</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>NSGA.MEC_Experiment_Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 18638ms</message>
+</record>
+<record>
+  <date>2020-01-28T05:05:42.774007500Z</date>
+  <millis>1580187942774</millis>
+  <nanos>7500</nanos>
+  <sequence>2</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.AbstractAlgorithmRunner</class>
+  <method>printFinalSolutionSet</method>
+  <thread>1</thread>
+  <message>Random seed: 1580187924034</message>
+</record>
+<record>
+  <date>2020-01-28T05:05:42.775004300Z</date>
+  <millis>1580187942775</millis>
+  <nanos>4300</nanos>
+  <sequence>3</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.AbstractAlgorithmRunner</class>
+  <method>printFinalSolutionSet</method>
+  <thread>1</thread>
+  <message>Objectives values have been written to file FUN.tsv</message>
+</record>
+<record>
+  <date>2020-01-28T05:05:42.775004300Z</date>
+  <millis>1580187942775</millis>
+  <nanos>4300</nanos>
+  <sequence>4</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.AbstractAlgorithmRunner</class>
+  <method>printFinalSolutionSet</method>
+  <thread>1</thread>
+  <message>Variables values have been written to file VAR.tsv</message>
+</record>
+<record>
+  <date>2020-01-28T05:05:42.843818700Z</date>
+  <millis>1580187942843</millis>
+  <nanos>818700</nanos>
+  <sequence>5</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.AbstractAlgorithmRunner</class>
+  <method>printQualityIndicators</method>
+  <thread>1</thread>
+  <message>
+Hypervolume (N) : 0.0
+Hypervolume     : 0.0
+Epsilon (N)     : 447.79255656879366
+Epsilon         : 447.79255656879366
+GD (N)          : 62.22741191330378
+GD              : 62.22741191330378
+IGD (N)         : 19.754379378812917
+IGD             : 19.754379378812917
+IGD+ (N)        : 621.5551494571889
+IGD+            : 621.5551494571889
+Spread (N)      : 1.0109780309258847
+Spread          : 1.0109780309258847
+Error ratio     : 1.0
+</message>
+</record>
+</log>

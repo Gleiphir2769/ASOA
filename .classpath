@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/EclipseProject/MEC/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseProject/MEC/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseProject/MEC/jmetal-algorithm-5.6.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseProject/MEC/jmetal-core-5.6.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseProject/MEC/jmetal-exec-5.6.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseProject/MEC/jmetal-problem-5.6.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseProject/Jmetal/Jmetal/commons-lang3-3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
