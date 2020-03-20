@@ -32,6 +32,7 @@ public class MEC_Experiment extends AbstractDoubleProblem{
 	//构造函数
 	public MEC_Experiment(Integer IntegerSolution) {
 		setNumberOfVariables(IntegerSolution);//N个决策变量  Xn
+		// todo:改成3
 		setNumberOfObjectives(2);//3目标
 		setName("MEC_Experiment");
 		
@@ -80,6 +81,7 @@ public class MEC_Experiment extends AbstractDoubleProblem{
 		System.out.println("-------------------------------\r\n");
 		
 		//设置目标函数
+		//todo:改目标
 		solution.setObjective(0, -TotalUtilizationObject);
 		solution.setObjective(1, TotalLatencyObject);
 //		solution.setObjective(2, TotalEnergyObject);

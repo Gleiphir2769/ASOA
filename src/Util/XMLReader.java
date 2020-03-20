@@ -645,7 +645,7 @@ public class XMLReader {
 						break;
 				}
 
-				System.out.println("高敏感latency: "+highPrioLatency);
+//				System.out.println("高敏感latency: "+highPrioLatency);
 				map.put("latency", TotalLatencyObject);
 				map.put("energy", TotalEnergyObject);
 				return map;
